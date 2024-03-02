@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_emoji_emotions_24"
+        android:title="Home"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/spin"
+        android:icon="@drawable/baseline_emoji_emotions_24"
+        android:title="Spinner"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/dt"
+        android:icon="@drawable/baseline_emoji_emotions_24"
+        android:title="Date Time"
+        app:showAsAction="never"/>
+</menu>
